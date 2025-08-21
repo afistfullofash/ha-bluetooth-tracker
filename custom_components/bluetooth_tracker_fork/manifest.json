@@ -1,5 +1,5 @@
 {
-  "domain": "bluetooth_tracker",
+  "domain": "bluetooth_tracker_fork",
   "name": "Bluetooth Tracker",
   "codeowners": [],
   "documentation": "https://www.home-assistant.io/integrations/bluetooth_tracker",
