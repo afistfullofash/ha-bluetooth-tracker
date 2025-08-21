@@ -2,7 +2,7 @@
 
 from typing import Final
 
-DOMAIN: Final = "bluetooth_tracker"
+DOMAIN: Final = "bluetooth_tracker_fork"
 SERVICE_UPDATE: Final = "update"
 
 BT_PREFIX: Final = "BT_"
